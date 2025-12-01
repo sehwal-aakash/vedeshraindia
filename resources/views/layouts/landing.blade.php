@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eitech - Technology & It Solutions Services</title>
+    <title>Vedeshra Technologies - Web Design & Digital Marketing Experts</title>
 
     <link rel="shortcut icon" href="/img/logo/fav-logo1.png" type="image/x-icon">
 

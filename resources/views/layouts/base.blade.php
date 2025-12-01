@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eitech - Technology & It Solutions Services</title>
+    <title>Vedeshra Technologies - Web Design & Digital Marketing Experts</title>
 
     <!--=====FAB ICON=======-->
-    @if(isset($logo2))
+    @if (isset($logo2))
         <link rel="shortcut icon" href="/img/logo/fav-logo2.png" type="image/x-icon">
     @elseif (isset($logo3))
         <link rel="shortcut icon" href="/img/logo/fav-logo3.png" type="image/x-icon">
