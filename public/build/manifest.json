@@ -96,14 +96,18 @@
     "src": "resources/fonts/fa-v4compatibility.woff2"
   },
   "resources/js/main.js": {
-    "file": "assets/main-D0Up2YD_.js",
+    "file": "assets/main-CzoIvzpK.js",
     "name": "main",
     "src": "resources/js/main.js",
     "isEntry": true
   },
   "resources/scss/main.scss": {
-    "file": "assets/main-CD46IRX6.css",
+    "file": "assets/main-Cqg-CtiL.css",
     "src": "resources/scss/main.scss",
-    "isEntry": true
+    "isEntry": true,
+    "name": "main",
+    "names": [
+      "main.css"
+    ]
   }
 }
