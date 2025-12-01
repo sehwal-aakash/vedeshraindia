@@ -486,7 +486,7 @@
     display: inline-block;
     padding: 18px 24px;
     border-radius: 8px;
-    color: #2E0797;
+    color: #2f4858;
     background: var(--ztc-bg-bg-1);
     z-index: 1;
     font-family: var(--ztc-family-font1);
@@ -514,7 +514,8 @@
         content: "";
         height: 100%;
         width: 10px;
-        background: var(--ztc-bg-bg-5);
+        // background: var(--ztc-bg-bg-5);
+        background: linear-gradient(90deg, #E09B33 0%, #F2D4A6 100%);
         transition: all .4s;
         top: 0;
         left: 50%;
