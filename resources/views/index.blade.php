@@ -38,7 +38,7 @@
                         <div class="elements">
                             <img src="/img/elements/elements3.png" alt="" class="elements3 aniamtion-key-1" />
                             <img src="/img/elements/elements2.png" alt="" class="elements2 aniamtion-key-2" />
-                            <img src="/img/elements/elements1.png" alt="" class="elements1 keyframe5" />
+                            <img src="/img/elements/earth-image-icon.png" alt="" class="elements1 keyframe5" />
                         </div>
                     </div>
                 </div>
